@@ -1,14 +1,14 @@
 # portfo.pythonanywhere
 
-Exploring the use of Python in Web development and using Python to build a web server
+Exploring the use of Python in Web development and using Python to build a `web server
 
-Built with Python 
-Built with Mashup Template
-Hosted on PythonAnyWhere
-Mobile Responsive
+Built with Python <br>
+Built with Mashup Template <br>
+Hosted on PythonAnyWhere <br>
+Mobile Responsive <br>
 
 <p align='center'>
-    <img src="z-ReadMe-media\FrontPage.png" alt="Demo" title="DemoImage">
+    <img src="z-ReadMe-media\FrontPage.png" alt="Demo" title="DemoImage" height="650">
 </p>
 
 Created the HTML, CSS and JavaScript files, using a template from 'Mashup', but obviously modified the template.
