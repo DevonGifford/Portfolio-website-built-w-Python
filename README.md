@@ -9,11 +9,12 @@
     <br>
     <h5>
         My first project I ever created getting into web development <br>I used this project to explore the use of Python in Web Development and using Flask to build a little web server.
+        <br>
+        Tech I used to build this:
         <h6>
-            Tech I used to build this:
-                <li> <a href="https://www.python.org/">Python</a> 
-                <li> <a href="https://flask.palletsprojects.com/">Flask</a> 
-                <li> <a href="http://mashup-template.com/">Mashup Template </a>
+                <a href="https://www.python.org/">Python</a> 
+                <a href="https://flask.palletsprojects.com/">Flask</a> 
+                <a href="http://mashup-template.com/">Mashup Template </a>
                 <br>
             Hosted with <a href="https://www.pythonanywhere.com/">PythonAnywhere</a> <br>
         </h6>
