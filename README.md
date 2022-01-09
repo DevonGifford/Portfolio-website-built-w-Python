@@ -10,9 +10,9 @@
         <br><br>
         Tech I used to build this:
         <h6>
-                <a href="https://www.python.org/">Python</a> 
-                <a href="https://flask.palletsprojects.com/">Flask</a> 
-                <a href="http://mashup-template.com/">Mashup Template </a>
+                <a href="https://www.python.org/">Python</a> <br>
+                <a href="https://flask.palletsprojects.com/">Flask</a> <br>
+                <a href="http://mashup-template.com/">Mashup Template </a> <br>
                 <br>
             Hosted with <a href="https://www.pythonanywhere.com/">PythonAnywhere</a> <br>
         </h6>
