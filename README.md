@@ -3,9 +3,7 @@
     <h1>👋 Portfolio Website built with Python 👋 </h1>
     <h3> http://devongifford.pythonanywhere.com/ </h3>
     <h6> (takes a while to load because of pythonanywhere) </h6>
-    <br>
-    <h4>I really like to keep this project public to remind myself of how far I have come since these days </h4>
-    <br>
+    <h3> <em> I really like to keep this project public to remind myself of how far I have come since these days </em> </h3>
     <br>
     <h5>
         My first project I ever created getting into web development <br>I used this project to explore the use of Python in Web Development and using Flask to build a little web server.
