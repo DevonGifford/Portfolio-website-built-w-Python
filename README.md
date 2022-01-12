@@ -8,7 +8,10 @@
     <h5>
         This was my first project I ever created and my starting point in getting into web development <br>I used this project to explore the use of Python in Web Development and using Flask to build a little web server.
         <br><br>
+        <h3>
         The Tech I used to build this:
+        </h3>
+        <hr>
         <h4>
                 <a href="https://www.python.org/">Python</a> <br>
                 <a href="https://flask.palletsprojects.com/">Flask</a> <br>
