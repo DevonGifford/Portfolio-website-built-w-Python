@@ -8,21 +8,24 @@
     <h5>
         This was my first project I ever created and my starting point in getting into web development <br>I used this project to explore the use of Python in Web Development and using Flask to build a little web server.
         <br><br>
-        Tech I used to build this:
-        <h6>
+        The Tech I used to build this:
+        <h4>
                 <a href="https://www.python.org/">Python</a> <br>
                 <a href="https://flask.palletsprojects.com/">Flask</a> <br>
                 <a href="http://mashup-template.com/">Mashup Template </a> <br>
                 <br>
             Hosted with <a href="https://www.pythonanywhere.com/">PythonAnywhere</a> <br>
-        </h6>
+        </h4>
     </h5>
 </div>
 
+<hr>
 
 <p align='center'>
     <img src="z-ReadMe-media\FrontPage.png" alt="Demo" title="DemoImage" height="650">
 </p>
+
+### Notes
 
 Created the HTML, CSS and JavaScript files, using a template from 'Mashup', but obviously modified the template.
 
@@ -32,5 +35,5 @@ Moved/Deployed from my machine to PythonAnywhere that has a dedicated server/ser
 
 
 
-http://devongifford.pythonanywhere.com/
+http://devongifford.pythonanywhere.com/ <br>
 (takes a while to load - hosted on pythonanywhere)
