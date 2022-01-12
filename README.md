@@ -30,13 +30,15 @@
 
 ### Notes
 
-Created the HTML, CSS and JavaScript files, using a template from 'Mashup', but obviously modified the template.
+<hr>
 
-Created a server that contains a CSV file that will be saved on this machine.
+<li> Created the HTML, CSS and JavaScript files, using a template from 'Mashup', but obviously modified the template.
 
-Moved/Deployed from my machine to PythonAnywhere that has a dedicated server/server space to host my files.
+<li> Created a server that contains a CSV file that will be saved on this machine.
+
+<li> Moved/Deployed from my machine to PythonAnywhere that has a dedicated server/server space to host my files.
 
 
 
-http://devongifford.pythonanywhere.com/ <br>
+<li> http://devongifford.pythonanywhere.com/ <br>
 (takes a while to load - hosted on pythonanywhere)
